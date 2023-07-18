@@ -1,4 +1,4 @@
-# WP Travel Payment Prototype Docs
+# WP Travel Custom Payment Prototype Docs
 ## “Instruction to follow before making payment addon for WP Travel.”
 
 If you are using gitlab to clone the addon prototype.
