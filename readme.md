@@ -3,7 +3,7 @@
 
 If you are using gitlab to clone the addon prototype.
 
-Clone the repo [wp-travel-payment-prototype](https://gitlab.com/ws-plugins/wp-travel-payment-prototype) in your plugin folder.
+Clone the repo [wp-travel-payment-prototype](https://github.com/wp-travel/wp-travel-payment-prototype) in your plugin folder.
 Go to plugin folder cd wp-travel-payment-prototype. Checkout to the dev branch.
 
 **Note:- All the core files of the payment prototype files are inside `/inc/modules/payment-prototype-core` folder. You have to change in `payment-prototype-core` directory only.**
